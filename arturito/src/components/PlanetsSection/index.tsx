@@ -44,7 +44,11 @@ const Planets = () => {
   return (
     <div>
       <Table columns={columns} data={data.results} /* :D */ />
+<<<<<<< HEAD
     
+=======
+    }
+>>>>>>> 9c837f10dd667bb78e65d5174504703657fc040f
     </div>
   );
 };
