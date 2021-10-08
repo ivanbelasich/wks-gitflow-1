@@ -48,6 +48,5 @@ const Planets = () => {
   );
 };
 
-console.log("Hola")
 
 export default Planets;
