@@ -44,10 +44,10 @@ const Planets = () => {
   return (
     <div>
       <Table columns={columns} data={data.results} /* :D */ />
+    
     </div>
   );
 };
 
-console.log("Hola")
 
 export default Planets;
