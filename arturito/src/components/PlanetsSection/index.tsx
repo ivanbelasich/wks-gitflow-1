@@ -43,7 +43,9 @@ const Planets = () => {
 
   return (
     <div>
+    {console.log("hola")}
       <Table columns={columns} data={data.results} /* :D */ />
+    }
     </div>
   );
 };
